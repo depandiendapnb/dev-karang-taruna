@@ -25,3 +25,12 @@ $dbpass = '';
 //Defining base url
 
 define("BASE_URL", "http://localhost/karang-taruna/");
+
+# Deploy an entire directory
+The following .cpanel.yml file copies the images directory and all of its contents to the example account’s public_html directory:
+
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/example/public_html/
+    - /bin/cp -R images $DEPLOYPATH
