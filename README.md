@@ -1,23 +1,23 @@
-# dev-karang-taruna
+# Repositori Aplikasi Web Profil Karang Taruna
 Repositori untuk proses integrasi kode aplikasi web profil karang taruna
 
-# file configuration
+# File Konfigurasi
 Untuk setting databse di file admin/config.php
 
-# config-guide
+//Catatan
 Ubah dan sesuaikanlah pengaturan berikut:
 
-# Host Name
+//Host Name
 $dbhost = 'localhost';
 
-# Database Name
+//Database Name
 $dbname = 'karang_taruna';
 
-# Database Username
+//Database Username
 $dbuser = 'root';
 
-# Database Password
+//Database Password
 $dbpass = '';
 
-# Defining base url
+//Defining base url
 define("BASE_URL", "http://localhost/karang-taruna/");
