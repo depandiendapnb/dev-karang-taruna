@@ -9,16 +9,16 @@ date_default_timezone_set('Asia/Jakarta');
 $dbhost = 'localhost';
 
 // Database Name
-$dbname = 'u1584567_karang_taruna';
+$dbname = 'karang_taruna';
 
 // Database Username
-$dbuser = 'u1584567_karang_taruna';
+$dbuser = 'root';
 
 // Database Password
-$dbpass = 'karangtaruna2022';
+$dbpass = '';
 
 // Defining base url
-define("BASE_URL", "https://devkarangtaruna.bengkaliskab.org/");
+define("BASE_URL", "http://localhost/karang-taruna/");
 
 // Getting Admin url
 define("ADMIN_URL", BASE_URL . "admin" . "/");
