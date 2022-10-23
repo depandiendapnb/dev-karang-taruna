@@ -2,7 +2,7 @@
 Repositori untuk proses integrasi kode aplikasi web profil karang taruna
 
 # File Konfigurasi
-Untuk setting databse di file admin/config.php
+Untuk setting database di file admin/config.php
 
 Ubah dan sesuaikanlah pengaturan berikut:
 
