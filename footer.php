@@ -212,7 +212,7 @@ This link will be active only for 24 hours.
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 copyright" style="text-align: center;">
-						<?php echo $footer_copyright; ?>
+						POLBENG <?php echo $footer_copyright; ?>
 					</div>
 				</div>
 			</div>
