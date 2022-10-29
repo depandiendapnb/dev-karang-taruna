@@ -34,3 +34,6 @@ deployment:
   tasks:
     - export DEPLOYPATH=/home/example/public_html/
     - /bin/cp -R images $DEPLOYPATH
+
+
+Test tambah isi dari programmer 1
